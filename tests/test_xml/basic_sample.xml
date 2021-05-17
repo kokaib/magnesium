@@ -1,0 +1,27 @@
+<xml>
+    <item>
+        <title>ab</title>
+        <description>cd</description>
+        <pubDate attr="val">ef</pubDate>
+    </item>
+    <item>
+        <title>gh</title>
+        <description>ij</description>
+        <pubDate attr="val">kl</pubDate>
+    </item>
+    <item>
+        <title>mn</title>
+        <description>op</description>
+        <pubDate attr="val">qr</pubDate>
+    </item>
+    <item>
+        <title>st</title>
+        <description>uv</description>
+        <pubDate attr="val">wx</pubDate>
+    </item>
+    <item>
+        <title>yz</title>
+        <description>ab</description>
+        <pubDate attr="val">cd</pubDate>
+    </item>
+</xml>

@@ -1,0 +1,10 @@
+<html>
+    <div class="a">
+        {{ div_a_text }}
+    </div>
+    <div class="b">
+        <span id="{{ span_id }}">
+            {{ span_text }}
+        </span>
+    </div>
+</html>

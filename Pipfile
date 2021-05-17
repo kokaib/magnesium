@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+lxml = "*"
+pandas = "*"
+
+[dev-packages]
+icecream = "*"
+pylama = "*"
+sphinx = "*"
+sphinx-rtd-theme = "*"
+build = "*"
+twine = "*"
+coverage = "*"
+pathlib = "*"
+
+[requires]
+python_version = "3.9"
