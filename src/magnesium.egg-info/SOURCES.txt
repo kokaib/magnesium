@@ -5,6 +5,7 @@ setup.cfg
 src/Magnesium.egg-info/PKG-INFO
 src/Magnesium.egg-info/SOURCES.txt
 src/Magnesium.egg-info/dependency_links.txt
+src/Magnesium.egg-info/requires.txt
 src/Magnesium.egg-info/top_level.txt
 src/magnesium/__init__.py
 src/magnesium.egg-info/PKG-INFO
